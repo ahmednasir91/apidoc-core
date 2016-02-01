@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "lodash": "~3.10.1",
-    "semver": "ahmednasir91/semver",
+    "semver": "git+ssh://git@github.com:ahmednasir91/semver.git",
     "wrench": "~1.5.8"
   },
   "devDependencies": {
